@@ -21,5 +21,10 @@ namespace lol
             label1.Text = "河北工大";
             MessageBox.Show("Hello");
         }
+
+        private void button1_MouseHover(object sender, EventArgs e)
+        {
+            MessageBox.Show("aaaaaaa");
+        }
     }
 }
