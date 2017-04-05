@@ -18,7 +18,7 @@ namespace lol
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "河北工大";
+            label1.Text = "liuzeling";
             MessageBox.Show("Hello");
         }
 
